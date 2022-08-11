@@ -1,6 +1,6 @@
 # Practico de una lista de tareas
 
-Creado en mente en por completar un trabajo practico dado por RollingCode School
+Creado en mente por completar un trabajo practico dado por RollingCode School
 
 ## Autor
 
