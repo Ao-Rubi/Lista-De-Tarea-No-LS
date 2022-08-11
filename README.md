@@ -2,8 +2,8 @@
 
 Creado en mente en por completar un trabajo practico dado por RollingCode School
 
+## [Lista de tarea](https://silver-hamster-4d43e2.netlify.app)
 ## Autor
-
 Garcia Mauro Nicolas
 
 ### Biblioteca
