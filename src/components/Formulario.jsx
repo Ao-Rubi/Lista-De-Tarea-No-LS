@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -7,14 +7,9 @@ import ListaTareas from './ListaTareas';
 
 const Formulario = () => {
 
-    let tareaLocalStorage = JSON.parse(localStorage.getItem("listaTareas")) || [];
     // Crear un state
-    const [arregloTareas, setArregloTareas] = useState(tareaLocalStorage);
+    const [arregloTareas, setArregloTareas] = useState([]);
     const [tarea, setTarea] = useState("");
-
-    useEffect(()=>{
-        localStorage.setItem("listaTareas", JSON.stringify(arregloTareas));
-    }, [arregloTareas]);
 
     const handleSubmit = (e) => {
         e.preventDefault();
