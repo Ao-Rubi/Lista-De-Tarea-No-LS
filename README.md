@@ -2,7 +2,7 @@
 
 Creado en mente por completar un trabajo practico dado por RollingCode School
 
-## [Lista de tarea](https://silver-hamster-4d43e2.netlify.app)
+## [Lista de tarea](https://earnest-rabanadas-a683c7.netlify.app)
 ## Autor
 Garcia Mauro Nicolas
 
